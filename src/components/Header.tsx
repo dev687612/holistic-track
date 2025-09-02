@@ -14,6 +14,7 @@ const Header = () => {
           </div>
           
           <nav className="hidden md:flex items-center space-x-8">
+            <a href="#about" className="text-muted-foreground hover:text-primary transition-colors">How It Works</a>
             <a href="#features" className="text-muted-foreground hover:text-primary transition-colors">Features</a>
             <a href="#benefits" className="text-muted-foreground hover:text-primary transition-colors">Benefits</a>
             <a href="#impact" className="text-muted-foreground hover:text-primary transition-colors">Impact</a>
